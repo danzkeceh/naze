@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
+   * Create By Zidan Alam.
+   * Recode By Danz Dev
+   * Contact Me on wa.me/6282129801595
    * Follow https://github.com/nazedev
 */
 
@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6282129801595']
+global.ownernomer = "6282129801595"
+global.premium = ['6282129801595']
 global.packname = 'Sticker  Naze'
 global.author = 'Naze'
 global.sessionName = 'nazedev'
